@@ -1,4 +1,5 @@
 a = 9
-print(a)
+c = 7
+print(c)
 b = 8
 print(b)
